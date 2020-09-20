@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "#forge:ore/silver",
-    "#forge:ore/sapphire",
-    "#forge:ore/copper",
-    "#forge:ore/amethyst"
+    "#forge:ores/silver",
+    "#forge:ores/sapphire",
+    "#forge:ores/copper",
+    "#forge:ores/amethyst"
   ]
 }
